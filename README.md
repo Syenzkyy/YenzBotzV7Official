@@ -7,15 +7,15 @@
 <a href="#"><img title="HARUKA MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Syenzkyy/SyenzkyBotV7"><img title="Owner" src="https://img.shields.io/badge/Recode-syenzky ofc-red.svg?style=for-the-badge&logo=github"></a>
+<a href=https://github.com/Syenzkyy/YenzBotzV7Official""><img title="Owner" src="https://img.shields.io/badge/Recode-syenzky ofc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#donate">Donate</a>
+  <a href="https://github.com/Syenzkyy/YenzBotzV7Official#requirements">Requirements</a> •
+  <a href="https://github.com/Syenzkyy/YenzBotzV7Official#instalasi">Installation</a> •
+  <a href="https://github.com/Syenzkyy/YenzBotzV7Official#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Syenzkyy/YenzBotzV7Official#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Syenzkyy/YenzBotzV7Official#donate">Donate</a>
 </p>
 </div>
 
@@ -33,8 +33,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash nodejs ffmpeg libwebp git mc yarn
-git clone https://github.com/zeeone-ofc/Haruka-Md.git
-cd Haruka-Md
+git clone https://github.com/Syenzkyy/YenzBotzV7Official.git
+cd YenzBotzV7Official
 yarn
 rm -rf session.json
 npm start
